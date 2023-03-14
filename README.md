@@ -6,7 +6,7 @@ This is based on the [Anki-Carnet-B](https://github.com/donmerendolo/anki-carnet
 
 ## How I imported and processed donmerendolo's deck
 
-1. I imported @donmerendolo's Spanish apkg file, then exported it to JSON using [CrowdAnki](https://ankiweb.net/shared/info/1788670778). The exported file, still in Spanish, is [anki-carnet-es.json](anki-carnet-b-en/anki-carnet-b-en.json).
+1. I imported [@donmerendolo's](https://github.com/donmerendolo) Spanish apkg file, then exported it to JSON using [CrowdAnki](https://ankiweb.net/shared/info/1788670778). The exported file, still in Spanish, is [anki-carnet-es.json](anki-carnet-b-en/anki-carnet-b-en.json).
 1. Next I translated it with [attranslate](https://github.com/fkirc/attranslate). The simple script for the translation is [spanish_to_english.sh](spanish_to_english.sh). The translated English file is [anki-carnet-b-english.json](anki-carnet-b-en/anki-carnet-b-en.json). You will need a GCloud account and API key if you are to re-run this script.
 1. Finally, I imported the English json file with CrowdAnki.
 
