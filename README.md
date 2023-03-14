@@ -24,4 +24,4 @@ You have to install the addon [Multiple Choice for Anki](https://ankiweb.net/sha
 ## Mistakes
 
 - There are some repeated questions.
-- There are some translation issues, for example Google Translate makes "silenciador de explosiones" --> "explosion silencer" instead of "muffler" :joy:
+- There are plenty of translation issues, for example Google Translate makes "silenciador de explosiones" --> "explosion silencer" instead of "muffler" :joy:
