@@ -2508,7 +2508,7 @@
       "fields": [
         "0ed69dc4-75ea-11ed-b12b-001a7dda7113",
         "<img src=\"14527.jpg\">",
-        "Un camión de menos de 3.500 de MMA, ¿a qué velocidad máxima puede circular por autovía?",
+        "Un camión de menos de 3.500 de MMA (masa máxima autorizada), ¿a qué velocidad máxima puede circular por autovía?",
         "2",
         "A 120 km/h.",
         "A 90 km/h.",
@@ -2833,9 +2833,9 @@
         "<img src=\"5608.jpg\">",
         "Como norma general, se recomienda no quitar el casco a un motorista accidentado porque...",
         "2",
-        "puede quedarse frío.",
-        "está más incómodo sin el casco.",
-        "podrían agravarse posibles lesiones.",
+        "Puede quedarse frío.",
+        "Está más incómodo sin el casco.",
+        "Podrían agravarse posibles lesiones.",
         "0 0 1",
         ""
       ],
@@ -2851,7 +2851,7 @@
         "¿Puede circular con un vehículo que emite ruido por encima de los límites autorizados?",
         "2",
         "Solo por vías interurbanas.",
-        "No está prohibido.",
+        "No, está prohibido.",
         "Sí, ya que el ruido no afecta a la seguridad vial.",
         "0 1 0",
         "ESTÁ PROHÍBO SUPERAR EL MÁXIMO ESTABLECIDO EN CONTAMINACIÓN ATMOSFÉRICA COMO AMBIENTAL (ruido). \"EN AMBAS LLEVA APAREJADA UNA SANCIÓN Y PUEDE SER INMOVILIZADO EL VEHÍCULO\"."
@@ -3276,10 +3276,10 @@
         "Fuera de poblado, deben circular por la calzada y no por el arcén todos los automóviles y...",
         "2",
         "todos los vehículos especiales.",
-        "los vehículos especiales con MMA no superior a 3.500 kilogramos.",
-        "los vehículos especiales con MMA superior a 3.500 kilogramos.",
+        "los vehículos especiales con MMA (masa máxima autorizada) no superior a 3.500 kilogramos.",
+        "los vehículos especiales con MMA (masa máxima autorizada) superior a 3.500 kilogramos.",
         "0 0 1",
-        "LOS VEHÍCULOS ESPECIALES QUE SUPEREN LOS: 3.500 KG. DE MMA. \" LOS VEHÍCULOS ESPECIALES QUE NO SUPEREN LOS 3.500 KG. DE MMA. CIRCULARÁN POR EL ARCÉN\"."
+        "LOS VEHÍCULOS ESPECIALES QUE SUPEREN LOS: 3.500 KG. DE MMA (masa máxima autorizada). \" LOS VEHÍCULOS ESPECIALES QUE NO SUPEREN LOS 3.500 KG DE MMA. CIRCULARÁN POR EL ARCÉN\"."
       ],
       "guid": "bwPtn+;m,@",
       "note_model_uuid": "9ca21c3c-c1c6-11ed-bf27-c8e26506fe96",
@@ -5126,13 +5126,13 @@
       "fields": [
         "816e9949-75eb-11ed-b35e-001a7dda7113",
         "<img src=\"3685.jpg\">",
-        "¿Circula correctamente este tractor agrícola de 2500 kg de MMA?",
+        "¿Circula correctamente este tractor agrícola de 2500 kg de MMA (masa máxima autorizada)?",
         "2",
         "Sí, porque al no supera los 3.500 kg de MMA debe circular por el arcén.",
         "No, porque estos vehículos deben circular siempre por la calzada.",
         "Sí, pero sólo si está averiado.",
         "1 0 0",
-        "SI SUPERA LOS 3.500 KG. DE MMA. DEBE CIRCULAR POR EL CARRIL DERECHO DE LA CALZADA. \"HASTA 3.500 KG. DE MASA MÁXIMA AUTORIZADA ES CORRECTO\"."
+        "SI SUPERA LOS 3.500 KG DE MMA DEBE CIRCULAR POR EL CARRIL DERECHO DE LA CALZADA. \"HASTA 3.500 KG DE MASA MÁXIMA AUTORIZADA ES CORRECTO\"."
       ],
       "guid": "A$H|aU$IJ`",
       "note_model_uuid": "9ca21c3c-c1c6-11ed-bf27-c8e26506fe96",
@@ -5466,13 +5466,13 @@
       "fields": [
         "b1978a35-75eb-11ed-885d-001a7dda7113",
         "<img src=\"2393.jpg\">",
-        "Como norma general; con el permiso de conducir de la clase B, ¿se puede conducir un automóvil de más de 3.500 kg de MMA?",
+        "Como norma general; con el permiso de conducir de la clase B, ¿se puede conducir un automóvil de más de 3.500 kg de MMA (masa máxima autorizada)?",
         "2",
         "No.",
         "Sí.",
         "",
         "1 0 0",
-        "COMO NORMA GENERAL SE PUEDEN CONDUCIR AUTOMÓVILES HASTA 3.500 KG. DE MMA. Y&nbsp; ARRASTRAR UN REMOLQUE QUE NO SUPERE LO 750 KG. DE MMA. Y DE FORMA EXCEPCIONAL: SE PUEDE CONDUCIR AUTOMÓVILES HASTA 4.250 KGS. ( Con 4 condiciones:1Âª&nbsp; Que sea de transporte de mercancías,2Âª que el combustible sea alternativo convencional, 3Âº Que tenga más de 2 años del permiso de conducir y 4Âª Sólo en Territorio Nacional)."
+        "COMO NORMA GENERAL SE PUEDEN CONDUCIR AUTOMÓVILES HASTA 3.500 KG DE MMA. Y&nbsp; ARRASTRAR UN REMOLQUE QUE NO SUPERE LO 750 KG. DE MMA. Y DE FORMA EXCEPCIONAL: SE PUEDE CONDUCIR AUTOMÓVILES HASTA 4.250 KGS. ( Con 4 condiciones:1Âª&nbsp; Que sea de transporte de mercancías,2Âª que el combustible sea alternativo convencional, 3Âº Que tenga más de 2 años del permiso de conducir y 4Âª Sólo en Territorio Nacional)."
       ],
       "guid": "JJT~TV!sO]",
       "note_model_uuid": "9ca21c3c-c1c6-11ed-bf27-c8e26506fe96",
@@ -6299,7 +6299,7 @@
       "fields": [
         "279c6f9b-75ec-11ed-84b5-001a7dda7113",
         "<img src=\"9739.JPG\">",
-        "¿Cuál es la velocidad máxima permitida en esta vía para un camión de 3.500 kg de MMA?",
+        "¿Cuál es la velocidad máxima permitida en esta vía para un camión de 3.500 kg de MMA (masa máxima autorizada)?",
         "2",
         "90 kilómetros por hora.",
         "70 kilómetros por hora.",
@@ -6826,7 +6826,7 @@
       "fields": [
         "72451816-75ec-11ed-89bc-001a7dda7113",
         "<img src=\"8962.JPG\">",
-        "Cuando conduce un camión de 3.000 kg de MMA., ¿debe llevar puesto el cinturón de seguridad?",
+        "Cuando conduce un camión de 3.000 kg de MMA (masa máxima autorizada)., ¿debe llevar puesto el cinturón de seguridad?",
         "2",
         "No.",
         "Sí.",
@@ -8086,7 +8086,7 @@
         "<img src=\"9020.JPG\">",
         "El permiso de circulación es obligatorio para los remolques y semirremolques...",
         "2",
-        "que tengan una MMA no superior a 750 Kg.",
+        "que tengan una MMA (masa máxima autorizada) no superior a 750 Kg.",
         "cualquiera que sea su MMA.",
         "que tengan una MMA superior a 750 kg.",
         "0 0 1",
@@ -9138,7 +9138,7 @@
       "fields": [
         "ba054127-75ed-11ed-bdec-001a7dda7113",
         "<img src=\"10609.JPG\">",
-        "En una autopista conduciendo un camión de 3.000 kg de MMA, ¿qué distancia es obligatorio&nbsp; dejar con el vehículo que va delante?",
+        "En una autopista conduciendo un camión de 3.000 kg de MMA (masa máxima autorizada), ¿qué distancia es obligatorio&nbsp; dejar con el vehículo que va delante?",
         "2",
         "50 metros.",
         "La distancia de seguridad.",
@@ -11773,7 +11773,7 @@
       "fields": [
         "c4d7b73f-75f0-11ed-ba35-001a7dda7113",
         "<img src=\"14068.jpg\">",
-        "Los camiones de MMA que no excedan de 3.500 kg ¿pueden utilizar un carril abierto a la circulación en sentido contrario al normal?",
+        "Los camiones de MMA (masa máxima autorizada) que no excedan de 3.500 kg ¿pueden utilizar un carril abierto a la circulación en sentido contrario al normal?",
         "2",
         "No, Nunca.",
         "Sí, cuando el carril se ha abierto por obras en la calzada.",
@@ -11926,7 +11926,7 @@
       "fields": [
         "da906505-75f0-11ed-b5f3-001a7dda7113",
         "<img src=\"9361.jpg\">",
-        "Un camión con una MMA de 2.500 kg y una antigüedad de 7 años está obligado a pasar inspección técnica...",
+        "Un camión con una MMA (masa máxima autorizada) de 2.500 kg y una antigüedad de 7 años está obligado a pasar inspección técnica...",
         "2",
         "cada seis meses.",
         "anualmente.",
@@ -12300,7 +12300,7 @@
       "fields": [
         "0f93ab3b-75f1-11ed-a204-001a7dda7113",
         "<img src=\"8962.JPG\">",
-        "En los camiones de menos de 3.500 kg. de MMA., ¿qué ocupantes están obligados a ponerse el cinturón de seguridad?",
+        "En los camiones de menos de 3.500 kg. de MMA (masa máxima autorizada)., ¿qué ocupantes están obligados a ponerse el cinturón de seguridad?",
         "2",
         "Ninguno.",
         "El conductor solamente.",
@@ -13033,7 +13033,7 @@
         "<img src=\"5127.JPG\">",
         "Esta señal:",
         "2",
-        "Prohíbe el acceso a los vehículos destinados al transporte de mercancías de más de 5,5 toneladas de MMA.",
+        "Prohíbe el acceso a los vehículos destinados al transporte de mercancías de más de 5,5 toneladas de MMA (masa máxima autorizada).",
         "Prohíbe el acceso a todo tipo de vehículo con más de 5,5 toneladas de MMA.",
         "Permite el acceso a los vehículos de más de 5,5 toneladas dedicados al transporte de mercancías, cuando circulan vacíos.",
         "1 0 0",
@@ -13167,7 +13167,7 @@
       "fields": [
         "8a85fc3a-75f1-11ed-b4c7-001a7dda7113",
         "<img src=\"6551.JPG\">",
-        "Conduce un camión de 3.000 kg. de MMA ¿Qué distancia debe dejar en este tramo de carretera?",
+        "Conduce un camión de 3.000 kg de MMA (masa máxima autorizada) ¿Qué distancia debe dejar en este tramo de carretera?",
         "2",
         "La distancia que permita a otros vehículos adelantarme.",
         "50 metros.",
@@ -15020,13 +15020,13 @@
       "fields": [
         "0bccd77f-763c-11ed-8999-001a7dda7113",
         "<img src=\"12097.jpg\">",
-        "Con el permiso B, ¿se puede conducir un turismo con remolque que pesa menos de 750 kg. de MMA?",
+        "Con el permiso B, ¿se puede conducir un turismo con remolque que pesa menos de 750 kg de MMA (masa máxima autorizada)?",
         "2",
         "Sí.",
         "Sí, pero debe obtenerse autorización especial.",
         "No.",
         "1 0 0",
-        "/ CON EL PERMISO B:&nbsp; SE PUEDE ARRASTRAR UN REMOLQUE LIGERO, HASTA 750 KG. DE MMA."
+        "/ CON EL PERMISO B:&nbsp; SE PUEDE ARRASTRAR UN REMOLQUE LIGERO, HASTA 750 KG DE MMA."
       ],
       "guid": "PY^J_;C^3>",
       "note_model_uuid": "9ca21c3c-c1c6-11ed-bf27-c8e26506fe96",
@@ -16348,7 +16348,7 @@
         "<img src=\"6248.jpg\">",
         "¿A qué vehículos prohíbe la entrada esta señal?",
         "2",
-        "A camiones y autobuses de menos de 3.500 kilogramos de MMA.",
+        "A camiones y autobuses de menos de 3.500 kilogramos de MMA (masa máxima autorizada).",
         "A camiones y furgones dedicados al transporte de mercancías.",
         "A todos los vehículos de más de 3.500 kilogramos de MMA.",
         "0 1 0",
@@ -16709,7 +16709,7 @@
         "de, al menos 150 metros.",
         "de, al menos, 100 metros.",
         "0 0 1",
-        "//TURISMOS Y MOTOCICLETAS: 100 METROS O 4 SEGUNDOS. VEHÍCULOS DE MMA. SUPERIOR A 3.500 KG.: 150 METROS O 6 SEGUNDOS."
+        "//TURISMOS Y MOTOCICLETAS: 100 METROS O 4 SEGUNDOS. VEHÍCULOS DE MMA (masa máxima autorizada) SUPERIOR A 3.500 KG.: 150 METROS O 6 SEGUNDOS."
       ],
       "guid": "AtQPD5ZL4l",
       "note_model_uuid": "9ca21c3c-c1c6-11ed-bf27-c8e26506fe96",
@@ -16873,13 +16873,13 @@
       "fields": [
         "8c825526-763d-11ed-8154-001a7dda7113",
         "<img src=\"8128.JPG\">",
-        "Un tractor agrícola de más de 3.500 kilogramos de MMA, ¿se puede conducir con el permiso de la clase B?",
+        "Un tractor agrícola de más de 3.500 kilogramos de MMA (masa máxima autorizada), ¿se puede conducir con el permiso de la clase B?",
         "2",
         "No, porque sobrepasa los 3.500 kilogramos de MMA.",
         "Sí.",
         "Solo si puede alcanzar una velocidad superior a 45 km/h.",
         "0 1 0",
-        "EL PERMISO \"B\" HABILITA PARA CONDUCIR VEHÍCULOS AGRÍCOLAS CON REMOLQUE Y DE CUALQUIER PESO MÁXIMO \"SI FUERA UN TRACTOR DE OBRAS Y SERVICIOS, PODRÍAMOS CONDUCIRLO CON LA CONDICIÓN QUE NO SUPERE LOS 3.500 KG. DE MMA."
+        "EL PERMISO \"B\" HABILITA PARA CONDUCIR VEHÍCULOS AGRÍCOLAS CON REMOLQUE Y DE CUALQUIER PESO MÁXIMO \"SI FUERA UN TRACTOR DE OBRAS Y SERVICIOS, PODRÍAMOS CONDUCIRLO CON LA CONDICIÓN QUE NO SUPERE LOS 3.500 KG DE MMA."
       ],
       "guid": "w8tMI0y,]K",
       "note_model_uuid": "9ca21c3c-c1c6-11ed-bf27-c8e26506fe96",
@@ -18556,7 +18556,7 @@
       "fields": [
         "9227a6a9-763e-11ed-98f5-001a7dda7113",
         "<img src=\"11278.jpg\">",
-        "Son remolques ligeros aquellos cuya MMA...",
+        "Son remolques ligeros aquellos cuya MMA (masa máxima autorizada)...",
         "2",
         "no supera los 750 kg.",
         "es igual a 750 kg.",
@@ -19032,7 +19032,7 @@
       "fields": [
         "dc32a606-763e-11ed-bb93-001a7dda7113",
         "<img src=\"1277.jpg\">",
-        "A partir de la señal, el conductor de un camión de menos de 3.500 kg de MMA, ¿puede adelantar a otros vehículos?",
+        "A partir de la señal, el conductor de un camión de menos de 3.500 kg de MMA (masa máxima autorizada), ¿puede adelantar a otros vehículos?",
         "2",
         "No; la señal le prohíbe adelantar a todo tipo de vehículos a motor.",
         "Si, la señal afecta a camiones cuya MMA supere los 3.500 kg.",
@@ -19103,10 +19103,10 @@
         "En un tramo de vía de doble sentido, si no va a adelantar, ¿en que caso deberá guardar una distancia mínima de 50 metros con el vehículo de delante?",
         "2",
         "Cuando circule a la velocidad máxima genérica permitida para la vía.",
-        "Cuando conduzca un camión de 3000 kilos de MMA.",
+        "Cuando conduzca un camión de 3000 kilos de MMA (masa máxima autorizada).",
         "Cuando conduzca un conjunto de vehículos de más de 10 metros de longitud.",
         "0 0 1",
-        "LOS VEHÍCULOS DE MÁS DE: 3.500 KG. DE MMA. Y LOS CONJUNTOS DE VEHÍCULOS DE MÁS DE 10 METROS DE LONGITUD, DEJARÁN: 50 METROS DE DISTANCIA."
+        "LOS VEHÍCULOS DE MÁS DE: 3.500 KG DE MMA. Y LOS CONJUNTOS DE VEHÍCULOS DE MÁS DE 10 METROS DE LONGITUD, DEJARÁN: 50 METROS DE DISTANCIA."
       ],
       "guid": "MH_}VWQPu4",
       "note_model_uuid": "9ca21c3c-c1c6-11ed-bf27-c8e26506fe96",
@@ -22417,7 +22417,7 @@
         "<img src=\"13951.jpg\">",
         "Circula con su turismo por una carretera en la que aparece esta señal de restricción con un panel de color amarillo que nos indica que no se permite circular a...",
         "2",
-        "Camiones de MMA menor de 3.500 kg ni conjuntos de vehículos.",
+        "Camiones de MMA (masa máxima autorizada) menor de 3.500 kg ni conjuntos de vehículos.",
         "Camiones de MMA mayor de 3.500 Kg ni vehículos articulados.",
         "Cualquier vehículo de más de 3.500 kg.",
         "0 1 0",
@@ -22772,7 +22772,7 @@
       "fields": [
         "4fabe3e0-7641-11ed-853f-001a7dda7113",
         "<img src=\"8926-f1b9aec2b225411c5d593e30cb372b51d9f9613b.JPG\">",
-        "Está prohibido conducir un camión de menos de 3.500 kg de MMA con una tasa de alcohol en aire espirado superior a...",
+        "Está prohibido conducir un camión de menos de 3.500 kg de MMA (masa máxima autorizada) con una tasa de alcohol en aire espirado superior a...",
         "2",
         "0,25 miligramos por litro.",
         "0,15 miligramos por litro.",
@@ -22962,7 +22962,7 @@
         "¿A qué vehículos prohíbe el adelantamiento esta señal?",
         "2",
         "A todos los vehículos de motor, incluidos camiones.",
-        "A los camiones de más de 3.500 Kg. de MMA.",
+        "A los camiones de más de 3.500 Kg. de MMA (masa máxima autorizada).",
         "A todos los camiones de menos de 3.500 Kg. de MMA.",
         "0 1 0",
         ""
@@ -24169,7 +24169,7 @@
         "En un turismo para cinco plazas, incluido el conductor, ¿está permitido que viajen 6 personas?",
         "2",
         "No, porque no se puede sobrepasar el número de plazas de lo autorizado.",
-        "Sí, cuando no se supera la MMA del vehículo.",
+        "Sí, cuando no se supera la MMA (masa máxima autorizada) del vehículo.",
         "Sí, cuando el vehículo circula en vías urbanas.",
         "1 0 0",
         ""
@@ -26140,7 +26140,7 @@
         "<img src=\"3283.JPG\">",
         "El arcén de la derecha es transitable y suficiente. ¿Qué vehículos deben circular por él, como norma general?",
         "2",
-        "Los vehículos especiales con MMA superior a 3.500 kg.",
+        "Los vehículos especiales con MMA (masa máxima autorizada) superior a 3.500 kg.",
         "Los vehículos con MMA no superior a 3.500 kg. que circulen a velocidad anormalmente reducida.",
         "Los ciclos, ciclomotores y vehículos para personas de movilidad reducida.",
         "0 0 1",
@@ -27041,7 +27041,7 @@
         "<img src=\"2580.jpg\">",
         "¿A qué vehículos de transporte de mercancías prohíbe pasar esta señal?",
         "2",
-        "A los de más de 3.500 kg. de MMA sólo cuando llevan carga.",
+        "A los de más de 3.500 kg. de MMA (masa máxima autorizada) sólo cuando llevan carga.",
         "A los de más de 3.500 kg. de MMA con carga o sin carga.",
         "A los de menos de 3.500 kg. de MMA",
         "0 1 0",
@@ -27175,7 +27175,7 @@
       "fields": [
         "b049cfe2-7644-11ed-9352-001a7dda7113",
         "<img src=\"6309.jpg\">",
-        "Un vehículo lleva más carga de la Masa Máxima Autorizada (MMA. ¿Está permitido circular así?",
+        "Un vehículo lleva más carga de la Masa Máxima Autorizada (MMA). ¿Está permitido circular así?",
         "2",
         "Sí, pero solamente cuando transporta equipaje y personas dentro de poblado.",
         "Sí, cuando es un vehículo de transporte de mercancías.",
@@ -27570,7 +27570,7 @@
         "2",
         "Sí.",
         "No.",
-        "Sí, cuando la MMA del conjunto no supera 3.500 kg.",
+        "Sí, cuando la MMA (masa máxima autorizada) del conjunto no supera 3.500 kg.",
         "0 1 0",
         "PODRÁN UTILIZARLO: TURISMOS SIN REMOLQUE, MOTOCICLETAS, AUTOBUSES DE MÁS DE 3.500 KG. AUTOBUSES ARTICULADOS, VEHÍCULOS MIXTOS ADAPTABLES, VEHÍCULOS PARA DISCAPACITADOS, CON LA SEÑAL: V-15 Y&nbsp; AQUELLOS VEHÍCULOS QUE OSTENTEN UN DISTINTIVO V-25&nbsp; AMBIENTAL."
       ],
@@ -27583,13 +27583,13 @@
       "fields": [
         "1d1b32cc-7645-11ed-95df-001a7dda7113",
         "<img src=\"8943.JPG\">",
-        "El permiso B, ¿autoriza a conducir un camión de 3.000 kg. de MMA que arrastra un remolque ligero?",
+        "El permiso B, ¿autoriza a conducir un camión de 3.000 kg de MMA (masa máxima autorizada) que arrastra un remolque ligero?",
         "2",
         "Sí, pero sólo cuando la MMA del remolque no supere la masa en vacío del camión.",
         "No.",
         "Sí.",
         "0 0 1",
-        "EL PERMISO B:&nbsp; AUTORIZA A CONDUCIR AUTOMÓVILES CUYA MASA MÁXIMA AUTORIZADA NO EXCEDA DE 3.500 KG. DICHOS AUTOMÓVILES PODRÁN LLEVAR ENGANCHADO UN REMOLQUE LIGERO,&nbsp; CUYA MASA MÁXIMA AUTORIZADA NO EXCEDA DE 750 KG."
+        "EL PERMISO B:&nbsp; AUTORIZA A CONDUCIR AUTOMÓVILES CUYA MASA MÁXIMA AUTORIZADA NO EXCEDA DE 3.500 KG DICHOS AUTOMÓVILES PODRÁN LLEVAR ENGANCHADO UN REMOLQUE LIGERO,&nbsp; CUYA MASA MÁXIMA AUTORIZADA NO EXCEDA DE 750 KG."
       ],
       "guid": "/YYMo)#7E",
       "note_model_uuid": "9ca21c3c-c1c6-11ed-bf27-c8e26506fe96",
@@ -28453,10 +28453,10 @@
         "Esta señal, ¿permite a un autobús adelantar a un camión que circula delante de él?",
         "2",
         "No, nunca.",
-        "Sólo si el camión no supera los 3.500 kg. de MMA.",
+        "Sólo si el camión no supera los 3.500 kg de MMA (masa máxima autorizada).",
         "Sí.",
         "0 0 1",
-        "LA SEÑAL INDICA: PROHIBICIÓN DE ADELANTAR A CAMIONES QUE SUPEREN LOS 3.5OO KG. DE PESO MMA. A OTROS VEHÍCULOS DE MOTOR."
+        "LA SEÑAL INDICA: PROHIBICIÓN DE ADELANTAR A CAMIONES QUE SUPEREN LOS 3.5OO KG DE PESO MMA A OTROS VEHÍCULOS DE MOTOR."
       ],
       "guid": "u:Jj@ryu?<",
       "note_model_uuid": "9ca21c3c-c1c6-11ed-bf27-c8e26506fe96",
